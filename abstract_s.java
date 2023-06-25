@@ -29,6 +29,7 @@ public class abstract_s {
          //Parent2 p = new Parent2(); -- error
         //Child3 c3 = new Child3(); -- error
         child2 c = new child2();
+        System.out.println("hehe");
 
     }
 
