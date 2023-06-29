@@ -1,5 +1,0 @@
-{
-    "java.code.generators.copyJsonPropertyAnnotationsFromVariablesToSettersGetters": true,
-    "java.code.generators.includeFluentWithSettersGetters": true,
-    "debug.autoExpandLazyVariables": true
-}
