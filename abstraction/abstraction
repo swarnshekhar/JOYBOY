@@ -1,0 +1,21 @@
+hiding the unneccessary deils and only showing the neccassry details.
+
+for eg;
+we use arraylist ,arrays and..
+eg..static void greetings(){
+    sout(hello);
+}
+so we just want to use arrlist or to print hello...but in debugger there so whole a lot information that how it is defined internally...which is good but if we will use that in code it will be unneccessary.
+
+
+
+
+
+
+
+
+
+
+
+encapsulation is developer level problem..
+abstract is designer level problem..
