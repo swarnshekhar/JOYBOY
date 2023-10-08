@@ -1,0 +1,11 @@
+how to understand and approah a problem...
+
+1.identify if you can break a problem into smaller problems.
+2.write the recurrence relation if needed.
+3.draw the recursion tree.
+4.about the tree...
+     ! see the flow of function,how they are getting in stack.
+     ! identify and focus of left and right tree calls.
+     ! draw the tree and position again & again using paper.
+
+5.see how the returned at each stage.
